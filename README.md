@@ -1,4 +1,4 @@
-# Keimschleuder, aka. Niklas on GitHub
+# Keimschleuder, aka. Niklas, on GitHub
 
 ## About me
 
