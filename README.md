@@ -26,4 +26,8 @@
 
   Discord: keimschleuder
 
+## I try to keep the documentation in the user's language
+
+  Have fun with my stuff!
+
 ## After all: Why are you reading this???
