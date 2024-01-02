@@ -24,7 +24,7 @@
     Projekt: <Link>
     Question: <What you want to ask>
 
-  Discord: keimschleuder
+  Discord: [keimschleuder](https://www.discordapp.com/users/1047546993796452464)
 
 ## I try to keep the documentation in the user's language
 
