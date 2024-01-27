@@ -9,9 +9,10 @@
   I can read and write Code in those languages:
 
 - C/C++
-- Swift
 - Python
+- Swift
 - JavaScript
+- C#
 
 ## Other things
 
