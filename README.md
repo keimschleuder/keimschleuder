@@ -31,4 +31,6 @@
 
   Have fun with my stuff!
 
+![My Projects](/Projects.webp)
+
 ## After all: Why are you reading this???
