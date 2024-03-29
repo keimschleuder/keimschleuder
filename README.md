@@ -16,16 +16,17 @@
 
 ## Other things
 
-  In case you are reading stuff I made and don't understand eighter the language of variables or the documentations or you wonder why I did things the way I did them, just contact me on Discord.
+  In case you are reading stuff I made and don't understand eighter the language of variables or the documentations or you wonder why I did things the way I did them, just contact me on Discord or via Mail.
   
-  Falls du etwas von mir lesen solltest und entweder die Sprache der Variablen oder der Dokumentation nicht verstehst, oder dich fragst, warum ich etwas in einer bestimmten Weise gemacht habe: Schreib mir aud Discord.
+  Falls du etwas von mir lesen solltest und entweder die Sprache der Variablen oder der Dokumentation nicht verstehst, oder dich fragst, warum ich etwas in einer bestimmten Weise gemacht habe: Schreib mir auf Discord oder per email.
   
-  Si lees algo mío y no entiendes el lenguaje de las variables o la documentación, o te preguntas por qué he hecho algo de una determinada manera: Escríbeme a Discord.
+  Si lees algo mío y no entiendes el lenguaje de las variables o la documentación, o te preguntas por qué he hecho algo de una determinada manera: Escríbeme.
 
     Projekt: <Link>
     Question: <What you want to ask>
 
   Discord: [keimschleuder](https://www.discordapp.com/users/1047546993796452464)
+  Email: <keimschleuder.cpp@gmail.com>
 
 ## I try to keep the documentation in the user's language
 
