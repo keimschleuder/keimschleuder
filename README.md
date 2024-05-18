@@ -13,6 +13,7 @@
 - Swift
 - JavaScript
 - C#
+- Go
 
 ## Other things
 
